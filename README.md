@@ -1,4 +1,4 @@
-## Your Name
+## Sejin Kim
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy / April 2019 - June 2019
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,11 +34,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Central Saint Martins College of Arts & Design / 2012 - 2015
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA(Hons) Graphic Design / specialised in Moving Image
+- 2:1
 
 #### Any other qualifications
 
