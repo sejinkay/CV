@@ -8,10 +8,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Project | Description | Language| Deployment |
 |---|---|---|---|
-| RPS | Simple Web game | Ruby, Sinatra | [Heroku](https://playrockpaperscissors.herokuapp.com/) |
-| Thermostat | Virtual Thermostat using weather API | JavaScript, Jasmine | [Heroku](https://thermostat-project.herokuapp.com/) |
-| MakersBnB | Clone of AirBnB | Ruby, Sinatra | |
-| Bien | Restaurant Review site | Ruby, Rails | [Heroku](https://bien-restaurant.herokuapp.com/) |
+| [RPS](https://github.com/sejinkay/rps-challenge) | Simple Web game | Ruby, Sinatra | [Heroku](https://playrockpaperscissors.herokuapp.com/) |
+| [Thermostat](https://github.com/sejinkay/Thermostat) | Virtual Thermostat using weather API | JavaScript, Jasmine | [Heroku](https://thermostat-project.herokuapp.com/) |
+| [MakersBnB](https://github.com/sejinkay/MakersBnB) | Clone of AirBnB | Ruby, Sinatra | |
+| [Bien](https://github.com/sejinkay/bien) | Restaurant Review site | Ruby, Rails | [Heroku](https://bien-restaurant.herokuapp.com/) |
 
 
 ## Skills
