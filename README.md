@@ -1,16 +1,20 @@
-## SEJIN KIM
+<center>
+<h1><b> SEJIN KIM </b></h1>
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+<br><br>
+</center>
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Projects
 
-| Project | Description | Language| Deployment |
+| Project | Description | Technologies | Deployment |
 |---|---|---|---|
-| [RPS](https://github.com/sejinkay/rps-challenge) | Simple Web game | Ruby, Sinatra | [Heroku](https://playrockpaperscissors.herokuapp.com/) |
+| [Acebook](https://github.com/tsankhalpara/acebook-MVP) | Facebook-ish social app using Rails | Ruby, Rails, Rspec | [Heroku](https://acebook-heroku.herokuapp.com/) |
+| [RPS](https://github.com/sejinkay/rps-challenge) | Simple Web game | Ruby, Sinatra, Rspec | [Heroku](https://playrockpaperscissors.herokuapp.com/) |
 | [Thermostat](https://github.com/sejinkay/Thermostat) | Virtual Thermostat using weather API | JavaScript, Jasmine | [Heroku](https://thermostat-project.herokuapp.com/) |
-| [MakersBnB](https://github.com/sejinkay/MakersBnB) | Clone of AirBnB | Ruby, Sinatra | |
+| [MakersBnB](https://github.com/sejinkay/MakersBnB) | Clone of AirBnB | Ruby, Sinatra, Rspec | |
 | [Bien](https://github.com/sejinkay/bien) | Restaurant Review site | Ruby, Rails | [Heroku](https://bien-restaurant.herokuapp.com/) |
 
 
@@ -55,6 +59,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BA(Hons) Graphic Design / specialised in Moving Image
 - 2:1
 - Adobe Creative Suite including - Photoshop, Illustrator, InDesign, After Effects, Premiere Pro
+- Storyboarding, prototyping, interest in UX design
 
 ## Experience
 
