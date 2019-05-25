@@ -1,9 +1,8 @@
-<center>
-<h1><b> SEJIN KIM </b></h1>
+<h1 align="center" style="bold">
+ SEJIN KIM </h1>
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 <br><br>
-</center>
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
