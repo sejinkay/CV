@@ -6,15 +6,22 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Projects
+## Projects - Makers
 
 | Project | Description | Technologies | Deployment |
 |---|---|---|---|
-| [Acebook](https://github.com/tsankhalpara/acebook-MVP) | Facebook-ish social app using Rails | Ruby, Rails, Rspec | [Heroku](https://acebook-heroku.herokuapp.com/) |
-| [RPS](https://github.com/sejinkay/rps-challenge) | Simple Web game | Ruby, Sinatra, Rspec | [Heroku](https://playrockpaperscissors.herokuapp.com/) |
-| [Thermostat](https://github.com/sejinkay/Thermostat) | Virtual Thermostat using weather API | JavaScript, Jasmine | [Heroku](https://thermostat-project.herokuapp.com/) |
-| [MakersBnB](https://github.com/sejinkay/MakersBnB) | Clone of AirBnB | Ruby, Sinatra, Rspec | |
-| [Bien](https://github.com/sejinkay/bien) | Restaurant Review site | Ruby, Rails | [Heroku](https://bien-restaurant.herokuapp.com/) |
+| [RPS](https://github.com/sejinkay/rps-challenge) | Simple Web Rock, Paper, Scissors game | Ruby, Sinatra, Rspec | [Heroku](https://playrockpaperscissors.herokuapp.com/) |
+| [Acebook](https://github.com/sejinkay/acebook-MVP) | Facebook-ish social app using Rails | Ruby, Rails, PostgreSQL, Rspec, Travis CI | [Heroku](https://acebook-heroku.herokuapp.com/) |
+| [Thermostat](https://github.com/sejinkay/Thermostat) | Virtual Thermostat using weather API | JavaScript, jQuery, Jasmine | [Heroku](https://thermostat-project.herokuapp.com/) |
+| [Guac-a-mole](https://github.com/guilhe0756/guac-a-mole) | Mobile Whack-A-Mole game using Unity Engine | C#, Unity, Android Studio | [Google Play](https://play.google.com/store/apps/details?id=com.GuacaMole.WhackaMole) |
+
+## Projects - Outside the Makers
+
+| Project | Description | Technologies | Deployment |
+|---|---|---|---|
+| [Red Webbing](https://github.com/Hannah-Frost/connect-game-jam) | Connect the dot game using Pygame - made for a Gamejam as a group of 3 | Python, Pygame | |
+| [Bien](https://github.com/sejinkay/bien) | Restaurant Review site | Ruby, Rails, PostgreSQL | [Heroku](https://bien-restaurant.herokuapp.com/) |
+
 
 
 ## Skills
@@ -50,8 +57,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Python, C#, Unity Engine, HTML, CSS
+- RSpec, Jasmine, unittest, Travis CI
 
 #### Central Saint Martins College of Arts & Design / 2012 - 2015
 
