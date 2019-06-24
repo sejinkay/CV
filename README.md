@@ -7,9 +7,11 @@
 
 </div>
 
-<br><br>
+<br>
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+<br>
 
 ## PROJECTS
 
@@ -18,13 +20,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | [RPS](https://github.com/sejinkay/rps-challenge) | Simple Web Rock, Paper, Scissors game | Ruby, Sinatra, Rspec | [Heroku](https://playrockpaperscissors.herokuapp.com/) |
 | [Acebook](https://github.com/sejinkay/acebook-MVP) | Facebook-ish social app using Rails | Ruby, Rails, PostgreSQL, Rspec, Travis CI | [Heroku](https://acebook-heroku.herokuapp.com/) |
 | [Thermostat](https://github.com/sejinkay/Thermostat) | Virtual Thermostat using weather API | JavaScript, jQuery, Jasmine | [Heroku](https://thermostat-project.herokuapp.com/) |
-| [Guac-a-mole](https://github.com/guilhe0756/guac-a-mole) | Mobile Whack-A-Mole game using Unity Engine | C#, Unity, Android Studio | [Google Play](https://play.google.com/store/apps/details?id=com.GuacaMole.WhackaMole) |
+| [Guac-a-mole](https://github.com/guilhe0756/guac-a-mole) | Mobile Whack-A-Mole game <p> using Unity Engine | C#, Unity, Android Studio | [Google Play](https://play.google.com/store/apps/details?id=com.GuacaMole.WhackaMole) |
 
 ## PROJECTS - Outside the Makers
 
 | Project | Description | Technologies | Deployment |
 |---|---|---|---|
-| [Red Webbing](https://github.com/Hannah-Frost/connect-game-jam) | Connect the dot game using Pygame - made for a Gamejam as a group of 3 | Python, Pygame | |
+| [Red Webbing](https://github.com/Hannah-Frost/connect-game-jam) | Connect the dot game using Pygame <p> - made for a Gamejam as a group of 3 | Python, Pygame | |
 | [Bien](https://github.com/sejinkay/bien) | Restaurant Review site | Ruby, Rails, PostgreSQL | [Heroku](https://bien-restaurant.herokuapp.com/) |
 
 
