@@ -1,12 +1,17 @@
 <h1 align="center" style="bold">
  SEJIN KIM </h1>
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+<div align="center">
+
+[SKILLS](#SKILLS) | [PROJECTS](#PROJECTS) | [EDUCATION](#EDUCATION) | [EXPERIENCE](#EXPERIENCE) | [INTERESTS](#INTERESTS)
+
+</div>
+
 <br><br>
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Projects - Makers
+## PROJECTS
 
 | Project | Description | Technologies | Deployment |
 |---|---|---|---|
@@ -15,7 +20,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | [Thermostat](https://github.com/sejinkay/Thermostat) | Virtual Thermostat using weather API | JavaScript, jQuery, Jasmine | [Heroku](https://thermostat-project.herokuapp.com/) |
 | [Guac-a-mole](https://github.com/guilhe0756/guac-a-mole) | Mobile Whack-A-Mole game using Unity Engine | C#, Unity, Android Studio | [Google Play](https://play.google.com/store/apps/details?id=com.GuacaMole.WhackaMole) |
 
-## Projects - Outside the Makers
+## PROJECTS - Outside the Makers
 
 | Project | Description | Technologies | Deployment |
 |---|---|---|---|
@@ -24,7 +29,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 
 
-## Skills
+## SKILLS
 
 #### Team worker
 
@@ -47,7 +52,7 @@ Learning outside my comfort zone
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-## Education
+## EDUCATION
 
 #### Makers Academy / April 2019 - June 2019
 
@@ -67,7 +72,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Adobe Creative Suite including - Photoshop, Illustrator, InDesign, After Effects, Premiere Pro
 - Storyboarding, prototyping, interest in UX design
 
-## Experience
+## EXPERIENCE
 
 **Image Moving Collective** (2018 - present)    
 *Creative*
@@ -90,7 +95,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Animator*
 - produced an animation for a BBC documentary as part of a small team
 
-## Interests
+## INTERESTS
 - The relationship between humanity and A.I (it was my dissertation topic).
 - Films, from Man With A Movie Camera to toilet humour movies.
 - Game, film and theatre concept art.
