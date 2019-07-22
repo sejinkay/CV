@@ -36,7 +36,7 @@ I've worked in Ruby, Javascript, C# (Unity engine) and HTML/CSS. Also I've been 
 | [Red Webbing](https://github.com/Hannah-Frost/connect-game-jam) | Connect the dot game using Pygame <p> - made for a Gamejam as a group of 3 | Python, Pygame | |
 | [Bien](https://github.com/sejinkay/bien) | Restaurant Review site | Ruby, Rails, PostgreSQL | [Heroku](https://bien-restaurant.herokuapp.com/) |
 
-
+<br>
 
 ## SKILLS
 
@@ -45,7 +45,8 @@ During my study at [Makers Academy](https://makers.tech/), we often worked in te
 I love giving and receiving feedback, helping both my team members and me to grow as better programmers.
 Another important aspect is time management, I like breaking the tasks into achievable pieces based on priorities and approaching them in the Agile way.
 
-<p> Some examples of my team's work processes can be found at [Guac-a-mole Wiki](https://github.com/guilhe0756/guac-a-mole/wiki) or [Acebook Wiki](https://github.com/tsankhalpara/acebook-MVP/wiki)
+
+Some examples of my team's work processes can be found at [Guac-a-mole Wiki](https://github.com/guilhe0756/guac-a-mole/wiki) or [Acebook Wiki](https://github.com/tsankhalpara/acebook-MVP/wiki)
 
 #### Flexible Learner
 
